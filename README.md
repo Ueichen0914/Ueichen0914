@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi I'm UEI Chen 👋 from Taipei Taiwan.
+
+### CS Lover :computer: / Python enthusiast :snake: / Rookie house music producer and DJ :musical_keyboard: / Dentistry student :tooth:
 
 <!--
 **Ueichen0914/Ueichen0914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
